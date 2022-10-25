@@ -4,6 +4,8 @@ Community resource for big data and data science related software projects on te
 
 This group is different from [Kubernetes Big Data User Group](https://github.com/kubernetes/community/tree/master/ug-big-data) because, unlike Kubernetes User Groups where though their central goal is not a deliverable piece of work, one of the objectives of this project is to create user-ready deliverables and software tools.
 
-The project site [Kubernetes Big Data Engineering Group](https://kubernetesbigdataeg.github.io)
-
-Container images registry: [Public Registry](https://hub.docker.com/u/kubernetesbigdataeg)
+| Resources   |      Link      |
+|----------|:-------------|
+| The project site |  [Kubernetes Big Data Engineering Group](https://kubernetesbigdataeg.github.io) |
+| Container images registry |[Public Registry](https://hub.docker.com/u/kubernetesbigdataeg)   |
+| Project Kanban | [Kanban](https://github.com/orgs/kubernetesbigdataeg/projects/1) |
