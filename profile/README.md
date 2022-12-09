@@ -9,3 +9,11 @@ This group is different from [Kubernetes Big Data User Group](https://github.com
 | The project site |  [Kubernetes Big Data Engineering Group](https://kubernetesbigdataeg.github.io) |
 | Container images registry |[Public Registry](https://hub.docker.com/u/kubernetesbigdataeg)   |
 | Project Kanban | [Kanban](https://github.com/orgs/kubernetesbigdataeg/projects/1) |
+
+## Big Picture Project Roadmap
+
+<p align="center">
+<img  width="100%" src="big-picture-roadmap.png">
+</p>
+
+
