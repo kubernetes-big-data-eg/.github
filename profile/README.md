@@ -13,5 +13,7 @@ This group is different from [Kubernetes Big Data User Group](https://github.com
 ## Big Picture Project Roadmap
 
 ![Drag Racing](big-picture-roadmap.png)
+<img  width="80%" src="https://github.com/kubernetesbigdataeg/.github/blob/main/profile/big-picture-roadmap.png">
+
 
 
