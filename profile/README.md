@@ -9,6 +9,7 @@ This group is different from [Kubernetes Big Data User Group](https://github.com
 | The project site |  [Kubernetes Big Data Engineering Group](https://kubernetesbigdataeg.github.io) |
 | Container images registry |[Public Registry](https://hub.docker.com/u/kubernetesbigdataeg)   |
 | Project Kanban | [Kanban](https://github.com/orgs/kubernetesbigdataeg/projects/1) |
+| Project Slack | [Slack](https://join.slack.com/t/kubernetesbigdata/shared_invite/zt-1o2b8xzh2-PiOys~83SoItpzbcEuVf7A) |
 
 ## Big Picture Project Roadmap
 
